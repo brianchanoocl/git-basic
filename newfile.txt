@@ -1,4 +1,8 @@
 Your answer for What is the difference between add, commit, and push?
 
 
-add is to 
+add is to put modified files to a place and wait for commit
+
+commit is to save the modification to local
+
+push is to install the modification commited to local to the branch in remote repository
